@@ -18,7 +18,6 @@ echo.                                ★┴┴┴┴┗━━━━━┛┴┴�
 echo.                           ╔╩═══════════════════════╩╗    
 echo.                           ║   Super Ud ARP Woofer   ║                         
 echo.                           ╚═════════════════════════╝   
-set /p ARP Woofer= Press Enter woof your ARP
 @echo off
 title so ud 
 :: Check for administrator privileges
